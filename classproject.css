@@ -1,0 +1,47 @@
+/* I used the course example to create this and 
+tweaked it a bit to come up with a slightly different 
+feel...I understand the concepts and how it generally 
+works. */
+body{
+	font-family: Times;
+}
+h1 {
+	font-family: Helvetica;
+	text-align: center;
+	color: #AB6E00;
+}
+.Lesson{
+	background-color: #AB6E00;
+	border-radius: 7.5px;
+	color: white;
+	padding: 15px;
+  margin: 5px;
+}
+h2{
+	margin: 1px;
+  font-size: 30px
+}
+.concept{
+	background-color: #D79723;
+  border-radius: 5px;
+	padding: 4px;
+	margin: 10px;
+	border: 4px;
+	color: black;
+}
+.concept-title{
+	font-size: 20px;
+	margin: 5px;
+	text-align: center;
+	color: #AB6E00;
+  font-weight: bold;
+}
+.description{
+	margin: 10px;
+}
+.italic{
+	font-style: italic;
+}
+.bold{
+	font-weight: bold;
+}
